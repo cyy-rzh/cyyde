@@ -1,0 +1,3 @@
+echo yes >/root/log
+
+
